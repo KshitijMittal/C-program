@@ -1,6 +1,6 @@
 // Check if the number is prine or not 
-#include <stdio.h>
 
+#include <stdio.h>
 int main() {
     int n, i;
     printf("Enter a number: ");
